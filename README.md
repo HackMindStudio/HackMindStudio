@@ -33,6 +33,7 @@ Linux
 - Text-to-Speech Application
 - Smart Screenshot Tool
 - [Task Manager Web Application](https://github.com/HackMindStudio/Task-Manager-Web-App)
+- - [python projects](https://github.com/HackMindStudio/mypythonproject1.git)
 ---
 
 ## 📊 GitHub Statistics
