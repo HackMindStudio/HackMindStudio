@@ -55,9 +55,8 @@
 
 ## 📫 Connect With Me
 
-![LinkedIn](https://www.linkedin.com/in/het-upadhyay-bb003833b/)
-![GitHub](https://github.com/HackMindStudio)
-
+https://www.linkedin.com/in/het-upadhyay-bb003833b/
+https://github.com/HackMindStudio
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HackMindStudio&color=blue&style=flat-square)
