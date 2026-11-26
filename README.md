@@ -24,7 +24,8 @@ Linux
 
 ## 🚀 Featured Projects
 
-- Task Manager Web Application
+- [Task Manager Web Application](https://github.com/HackMindStudio/Task-Manager-Web-App)
+- [Python Projects](https://github.com/HackMindStudio/mypythonproject1)
 - File Encryption & Decryption Tool
 - Python Port Scanner
 - Password Strength Checker
@@ -32,8 +33,6 @@ Linux
 - QR Code Generator
 - Text-to-Speech Application
 - Smart Screenshot Tool
-- [Task Manager Web Application](https://github.com/HackMindStudio/Task-Manager-Web-App)
-- - [python projects](https://github.com/HackMindStudio/mypythonproject1.git)
 ---
 
 ## 📊 GitHub Statistics
