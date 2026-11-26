@@ -55,9 +55,8 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/het-upadhyay-bb003833b/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-HackMindStudio-black?style=for-the-badge&logo=github)](https://github.com/HackMindStudio)
+![LinkedIn](https://www.linkedin.com/in/het-upadhyay-bb003833b/)
+![GitHub](https://github.com/HackMindStudio)
 
 ---
 
