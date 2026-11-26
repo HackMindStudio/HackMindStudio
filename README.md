@@ -32,7 +32,7 @@ Linux
 - QR Code Generator
 - Text-to-Speech Application
 - Smart Screenshot Tool
-
+- [Task Manager Web Application](https://github.com/HackMindStudio/Task-Manager-Web-App)
 ---
 
 ## 📊 GitHub Statistics
